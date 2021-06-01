@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-e-j-k-u-m-a-r&label=Profile%20views&color=0e75b6&style=flat" alt="t-e-j-k-u-m-a-r" /> </p>
 
-- 🔭 I’m currently working on [Protractor Automation using Javascript, Typescript & Jasmine for Client mentioned here >>> ](https://www.greenwayhealth.com/prime-suite)
+- 🔭 I’m currently working on [Protractor Automation using Javascript, Typescript & Jasmine for Client mentioned in the link 🚀 ](https://www.greenwayhealth.com/prime-suite)
 
 - 🌱 I’m currently learning **Kotlin, Cypress**
 
