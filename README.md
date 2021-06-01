@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-e-j-k-u-m-a-r&label=Profile%20views&color=0e75b6&style=flat" alt="t-e-j-k-u-m-a-r" /> </p>
 
-- 🔭 I’m currently working on [Prime Suite](https://www.greenwayhealth.com/prime-suite)
+- 🔭 I’m currently working on [Protractor Automation using Javascript, Typescript & Jasmine](https://www.greenwayhealth.com/prime-suite)
 
-- 🌱 I’m currently learning **Javascript, Kotlin**
+- 🌱 I’m currently learning **Kotlin, Cypress**
 
 - 👯 I’m looking to collaborate on [Covid19 India](https://github.com/covid19india/api)
 
