@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Kotlin, Cypress**
 
+- 🔬 I'm regularly blog on [![Tejkumar Kempaiah's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/tejkumar)
+
 - 👯 I’m looking to collaborate on [Covid19 India](https://github.com/covid19india/api)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
